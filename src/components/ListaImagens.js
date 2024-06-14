@@ -1,6 +1,5 @@
-// src/components/ListaImagens.js
 import React from 'react';
-import './ListaImagens.css'; // Adicione um arquivo CSS para os estilos
+import './ListaImagens.css';
 
 const ListaImagens = ({ photos }) => {
   return (

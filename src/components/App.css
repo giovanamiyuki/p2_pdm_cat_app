@@ -1,4 +1,3 @@
-/* src/App.css */
 .app-container {
     display: flex;
     flex-direction: column;
@@ -15,7 +14,7 @@
   .title {
     font-size: 2.5rem;
     font-weight: bold;
-    color: #ff6f61; /* Cor principal para o título */
+    color: #ff6f61;
     margin: 10px 0;
   }
   

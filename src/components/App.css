@@ -1,0 +1,38 @@
+/* src/App.css */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ff6f61; /* Cor principal para o título */
+    margin: 10px 0;
+  }
+  
+  .description {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 0;
+  }
+  
+  .search-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .image-section {
+    width: 100%;
+  }
+  
